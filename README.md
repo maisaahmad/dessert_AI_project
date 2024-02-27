@@ -10,9 +10,9 @@ specific characteristics for each dessert to distinguish it,And it show how to d
   4-the shape of the dessert
 * how to use the characteristics to ask a questions
 # some example of the output
-   <a href="https://mrkzgulfup.com/" target="_blank" title="https://mrkzgulfup.com/"><img src="https://mrkzgulfup.com/do.php?img=4481" border="0" alt="https://mrkzgulfup.com/do.php?img=4481" /></a>
+   <a href="https://mrkzgulfup.com/do.php?img=4481" target="_blank" title="https://mrkzgulfup.com/"><img src="https://mrkzgulfup.com/do.php?img=4481" border="0" alt="https://mrkzgulfup.com/do.php?img=4481" /></a>
    
-  <a href="https://mrkzgulfup.com/" target="_blank" title="https://mrkzgulfup.com/"><img src="https://mrkzgulfup.com/do.php?img=4482" border="0" alt="https://mrkzgulfup.com/do.php?img=4482" /></a>
+  <a href="https://mrkzgulfup.com/do.php?img=4482" target="_blank" title="https://mrkzgulfup.com/"><img src="https://mrkzgulfup.com/do.php?img=4482" border="0" alt="https://mrkzgulfup.com/do.php?img=4482" /></a>
 # how to use the code for your own uses
 * open swich prolog online - https://swish.swi-prolog.org
 * write the code or paste it
